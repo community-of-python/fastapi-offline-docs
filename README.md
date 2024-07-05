@@ -29,3 +29,5 @@ enable_offline_docs(app)
 ```
 
 Now, the assets for API docs are served locally, not from CDN.
+
+See also: [litestar-offline-docs](https://github.com/community-of-python/litestar-offline-docs).
