@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fastapi-offline-docs"
-version = "1.0.2"
+version = "1.0.1"
 description = "Offline API docs for FastAPI"
 authors = ["community-of-python"]
 readme = "README.md"
