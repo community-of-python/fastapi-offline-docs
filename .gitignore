@@ -5,3 +5,6 @@ __pycache__
 .venv
 .vscode
 dist
+.idea
+.python-version
+uv.lock
